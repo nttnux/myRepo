@@ -5,7 +5,7 @@ $phpCalendar = new PHPCalendar ();
 <html>
 <head>
 <link href="style.css" type="text/css" rel="stylesheet" />
-<title>PHP Calendar</title>
+<title>PHP Calendar Edited</title>
 </head>
 <body>
 <div id="body-overlay"><div><img src="loading.gif" width="64px" height="64px"/></div></div>
